@@ -94,4 +94,3 @@ list_folders.place(relx=0.5, rely=0.6, anchor='center')
 default_path()
 
 window.mainloop()
-# test1
