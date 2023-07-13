@@ -1,0 +1,6 @@
+Version: 2.0.0.0
+CompanyName: Bruker
+FileDescription: SI BackUp
+InternalName: SI BackUp
+ProductName: Bruker - Application
+#create-version-file setting_version_file.txt --outfile SI_Backup_VersionFile.txt
